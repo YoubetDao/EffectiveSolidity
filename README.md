@@ -11,7 +11,8 @@ EffectiveSolidity aims to provide developers with guidelines and examples to wri
 Here are some recommended resources for best practices in smart contract development:
 
 ### General
-- [智能合约编写之Solidity的编程攻略](https://fisco-bcos-documentation.readthedocs.io/zh-cn/latest/docs/articles/3_features/35_contract/solidity_design_programming_strategy.html)
+- [Web3 DApp 最佳编程实践指南 - Guo Yu](https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek)
+- [智能合约编写之Solidity的编程攻略 - 毛嘉宇](https://fisco-bcos-documentation.readthedocs.io/zh-cn/latest/docs/articles/3_features/35_contract/solidity_design_programming_strategy.html)
 
 
 ## Contributing
